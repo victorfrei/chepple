@@ -59,7 +59,7 @@
 
 
 .main {
-
+grid-template-columns: 2;
   min-height: 100vh;
   padding: 0 1rem;
   padding-bottom: 12rem;
